@@ -48,6 +48,18 @@ syntax default dalam struktur pemilihan switch-case adalah sebagai penanganan te
 
 PERCOBAAN 3 : NESTED IF UNTUK MENGECEK SYARAT UJIAN SKRIPSI
 ##### Soal :
+1. Apa yang terjadi jika mahasiswa menjawab "No" pada pertanyaan bebas kompen? Mengapa demikian?
+***Jawaban*** : Jika user menjawab "No" maka program akan menampilkan pesan yaitu "Anda tidak dapat mengikuti ujian skripsi karena belum bebas kompen". Karena syarat utama untuk dapat mengikuti ujian adalah harus bebas kompen.
+
+2. Jelaskan maksud dari potongan kode berikut!
+***Jawaban*** : Mengecek apakah input dari user sama dengan "ya" tanpa membedakan huruf besar ataupun kecil. Jika hasil true, maka program akan lanjut memeriksa syarat berikutnya.
+
+3. Bagaimana alur pemeriksaan syarat mahasiswa dari awal sampai akhir? jelaskan secara runtut untuk semua kondisi!
+***Jawaban*** : Program meminta input apakah mahasiswa bebas kompen.
+               Jika tidak bebas kompen maka langsung ditolak ikut ujian.
+               jika mahasiswa bebas kompen maka lanjut memeriksa jumlah log bilangan pembimbing 1 & 2
+               jika kedua log kedua >= 8 maka di perbolehkan ikkut ujian
+               jika salah satu log bimbingan < 8 maka belum memenuhi syarat. Program akan menampilkan hasil akhir secara kondisi
 
 
 
