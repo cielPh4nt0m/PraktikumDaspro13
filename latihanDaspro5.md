@@ -18,13 +18,13 @@ online, maka boleh masuk.
 
 ###Pseudocode :
 
-  Deklarasi:
-  
-  kartuMahasiswa : Boolean
-  
-  registrasiOnline : Boolean
+Deklarasi:
 
-Mulai
+   kartuMahasiswa : Boolean
+   registrasiOnline : Boolean
+
+ Mulai
+
   // Input
   
   Tampilkan "Apakah membawa kartu mahasiswa? (true/false)"
