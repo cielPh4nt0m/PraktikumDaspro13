@@ -9,12 +9,14 @@
 online, maka boleh masuk.
  • Jika tidak memenuhi salah satu dari dua syarat tersebut, maka ditolak masuk.
  Buatlah flowchart dan pseudocode untuk menyelesaikan masalah tersebut!
+
 **Jawaban** :
+
 *Flowchart* :
 
 <img width="2720" height="1000" alt="image" src="https://github.com/user-attachments/assets/3ead0902-4115-4135-96d0-4cc77e8212c0" />
 
-###*Pseudocode* :
+###Pseudocode :
 
   Deklarasi:
   kartuMahasiswa : Boolean
@@ -45,12 +47,14 @@ yang diambil:
  o Jika SKS < 12, maka tampilkan “Akses ditolak, SKS kurang dari 12”.
  • Jika bukan mahasiswa maupun dosen, maka tampilkan “Akses ditolak”.
  Buatlah flowchart dan pseudocode untuk menyelesaikan masalah tersebut!
+
 **Jawaban** :
+
 *Flowchart* :
 
 <img width="2512" height="1000" alt="image" src="https://github.com/user-attachments/assets/0a7e217f-9911-49b0-8ad9-7bd7e61335fa" />
 
-###*Pseudocode* :
+###Pseudocode :
 
 Deklarasi:
     jenis_pengguna : string
