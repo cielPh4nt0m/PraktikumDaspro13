@@ -19,11 +19,14 @@ online, maka boleh masuk.
 ###Pseudocode :
 
   Deklarasi:
+  
   kartuMahasiswa : Boolean
+  
   registrasiOnline : Boolean
 
 Mulai
   // Input
+  
   Tampilkan "Apakah membawa kartu mahasiswa? (true/false)"
   Input kartuMahasiswa
 
@@ -31,6 +34,7 @@ Mulai
   Input registrasiOnline
 
   // Proses dan Output
+  
   Jika (kartuMahasiswa = true) atau (registrasiOnline = true) maka
     Tampilkan "Boleh masuk ke perpustakaan"
   Jika tidak
@@ -57,14 +61,18 @@ yang diambil:
 ###Pseudocode :
 
 Deklarasi:
+
     jenis_pengguna : string
+    
     jumlah_sks : integer
 
 Input:
+
     Tampilkan "Masukkan jenis pengguna (dosen/mahasiswa/lain): "
-    Baca jenis_pengguna
+    Baca jenis_pengguna"
 
 Proses dan Output:
+
     Jika jenis_pengguna = "dosen" maka
         Tampilkan "Akses WiFi diberikan (dosen)"
     Jika tidak, dan jenis_pengguna = "mahasiswa" maka
