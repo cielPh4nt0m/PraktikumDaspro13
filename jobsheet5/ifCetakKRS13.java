@@ -9,6 +9,11 @@ public class ifCetakKRS13 {
         System.out.println("Apakah UKT sudah lunas? (true/false):");
         boolean uktLunas = input.nextBoolean(); //Nama variabel yang benar
 
+        // Modifikasi IF-ELSE menjadi Ternary Operator
+        String hasil = (uktLunas) ? "KRS berhasil dicetak." : "KRS tidak dapat dicetak karena UKT belum lunas.";
+        System.out.println(hasil);
+
+
         if (uktLunas) { //Gunakan nama yang sama persis
             System.out.println("Pembayaran UKT terverifikasi");
             System.out.println("Silahkan cetak KRS dan minta tanda tangan DPA ");
