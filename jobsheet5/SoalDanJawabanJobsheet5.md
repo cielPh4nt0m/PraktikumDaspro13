@@ -41,6 +41,7 @@ Percobaan 1”
 
 ***Jawaban*** :
 
+<img width="940" height="652" alt="Screenshot 2025-10-11 172050" src="https://github.com/user-attachments/assets/98a4cf12-f6cd-46a6-966c-c9328195d249" />
 
 
 PERCOBAAN 2 : SWITCH-CASE UNTUK MENCETAK KRS
@@ -76,6 +77,8 @@ Percobaan 2”
 
 ***Jawaban*** :
 
+<img width="1441" height="904" alt="Screenshot 2025-10-11 172113" src="https://github.com/user-attachments/assets/b2be856b-e70f-4723-915f-aefec635f902" />
+
 
 PERCOBAAN 3 : NESTED IF UNTUK MENGECEK SYARAT UJIAN SKRIPSI
 ##### Soal :
@@ -93,7 +96,7 @@ Jika user menjawab "No" maka program akan menampilkan pesan yaitu "Anda tidak da
    
 Mengecek apakah input dari user sama dengan "ya" tanpa membedakan huruf besar ataupun kecil. Jika hasil true, maka program akan lanjut memeriksa syarat berikutnya.
 
-4. Bagaimana alur pemeriksaan syarat mahasiswa dari awal sampai akhir? jelaskan secara runtut untuk semua kondisi!
+3. Bagaimana alur pemeriksaan syarat mahasiswa dari awal sampai akhir? jelaskan secara runtut untuk semua kondisi!
 
 ***Jawaban*** :
 
@@ -103,9 +106,12 @@ Mengecek apakah input dari user sama dengan "ya" tanpa membedakan huruf besar at
    jika kedua log kedua >= 8 maka di perbolehkan ikkut ujian
    jika salah satu log bimbingan < 8 maka belum memenuhi syarat. Program akan menampilkan hasil akhir secara kondisi
 
-6. Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi percobaaan 3"
+4. Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi percobaaan 3"
 
 ***Jawaban*** :
+
+<img width="992" height="824" alt="Screenshot 2025-10-11 172156" src="https://github.com/user-attachments/assets/38ab1070-b35d-4bc4-a9e9-ab66e34274da" />
+
 
 
 
