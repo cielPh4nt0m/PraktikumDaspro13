@@ -130,6 +130,29 @@ Sudah di modifikasi dalam bentuk Ternary Operator
 
 ***Jawaban*** :
 
+Codingan di visual studio code :
+
+<img width="609" height="567" alt="Screenshot 2025-10-11 175712" src="https://github.com/user-attachments/assets/d5f25326-6bed-4e4a-9c4c-fae1d71ae4fa" />
+
+setelah di commit ke github :
+
+<img width="609" height="567" alt="Screenshot 2025-10-11 175712" src="https://github.com/user-attachments/assets/52f9afbe-30ed-4d19-a704-dc563b2341c2" />
+
+3. Implementasikan flowchart yang telah Anda buat untuk Latihan pada Tugas pertemuan 5 Matakuliah Dasar Pemrograman terkait sistem perpustakaan dan akses WIFI kampus ke dalam kode program! Commit dan push program Anda ke Github dengan pesan “Tugas 3”
+
+***Jawaban*** :
+
+Codingan Sistem perpustakaan :
+
+<img width="915" height="582" alt="Screenshot 2025-10-11 180140" src="https://github.com/user-attachments/assets/3a0363f6-f5d8-431c-895a-c2cb5346d5ac" />
+
+Codingan akses WIFI kampus :
+
+<img width="900" height="758" alt="Screenshot 2025-10-11 180201" src="https://github.com/user-attachments/assets/860b0765-5ca3-40ac-90a8-82e0cdf9c658" />
+
+
+
+
 
 
 
