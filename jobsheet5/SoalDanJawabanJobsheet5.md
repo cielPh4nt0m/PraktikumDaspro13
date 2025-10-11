@@ -148,7 +148,7 @@ Codingan Sistem perpustakaan :
 
 Codingan akses WIFI kampus :
 
-<img width="900" height="758" alt="Screenshot 2025-10-11 180201" src="https://github.com/user-attachments/assets/860b0765-5ca3-40ac-90a8-82e0cdf9c658" />
+<img width="900" height="758" alt="Screenshot 2025-10-11 180201" src="https://github.com/user-attachments/assets/02d63687-a0aa-47f9-9424-3c80480d7a6f" />
 
 
 
