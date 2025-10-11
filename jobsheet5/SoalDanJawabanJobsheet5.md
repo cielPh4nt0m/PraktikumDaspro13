@@ -114,6 +114,28 @@ Mengecek apakah input dari user sama dengan "ya" tanpa membedakan huruf besar at
 
 
 
+# TUGAS :
+Waktu pengerjaan 120 menit
+
+1. Buka kembali file ifCetakKRSNoPresensi.java, tambahkan baris baru di dalam fungsi main untuk melakukan transformasi program cetak KRS hasil modifikasi menggunakan struktur IF-ELSE yang telah dibuat ke dalam bentuk Ternary Operator! Commit dan push program 
+Anda ke Github dengan pesan “Tugas 1”
+
+***Jawaban*** :
+
+Sudah di modifikasi dalam bentuk Ternary Operator
+
+<img width="940" height="652" alt="Screenshot 2025-10-11 172050" src="https://github.com/user-attachments/assets/235bb550-5e25-42a2-9153-1f358476306d" />
+
+2. Implementasikan flowchart tersebut ke dalam kode program Java dengan struktur pemilihan IF-ELSE! Commit dan push program Anda ke Github dengan pesan “Tugas 2”
+
+***Jawaban*** :
+
+
+
+
+
+
+
 
 
 
