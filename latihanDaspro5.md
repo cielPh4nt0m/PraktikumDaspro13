@@ -11,7 +11,7 @@ online, maka boleh masuk.
  Buatlah flowchart dan pseudocode untuk menyelesaikan masalah tersebut!
 **Jawaban** :
 *Flowchart*
-<img width="2720" height="3164" alt="image" src="https://github.com/user-attachments/assets/3ead0902-4115-4135-96d0-4cc77e8212c0" />
+<img width="2720" height="1000" alt="image" src="https://github.com/user-attachments/assets/3ead0902-4115-4135-96d0-4cc77e8212c0" />
 *Pseudocode*
 Deklarasi:
   kartuMahasiswa : Boolean
@@ -44,7 +44,7 @@ yang diambil:
  Buatlah flowchart dan pseudocode untuk menyelesaikan masalah tersebut!
 **Jawaban** :
 *Flowchart*
-<img width="2512" height="4888" alt="image" src="https://github.com/user-attachments/assets/0a7e217f-9911-49b0-8ad9-7bd7e61335fa" />
+<img width="2512" height="1000" alt="image" src="https://github.com/user-attachments/assets/0a7e217f-9911-49b0-8ad9-7bd7e61335fa" />
 *Pseudocode*
 Deklarasi:
     jenis_pengguna : string
