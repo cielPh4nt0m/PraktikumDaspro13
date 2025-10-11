@@ -31,7 +31,9 @@ PERCOBAAN 1 : PENERAPAN IF DAN IF-ELSE UNTUK MENCETAK KRS
     
  Tampilannya akan seperti ini 
 <img width="1146" height="570" alt="Screenshot 2025-10-08 110133" src="https://github.com/user-attachments/assets/45608556-2422-4eba-93a6-ab0688cac6be" />
+
 Dan jika di RUN di terminal akan menampilkan seperti ini 
+
 <img width="560" height="123" alt="Screenshot 2025-10-08 110318" src="https://github.com/user-attachments/assets/83d471c9-ad64-4b45-b48f-f66cdf757099" />
 
  4. Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi 
@@ -86,7 +88,7 @@ Jika user menjawab "No" maka program akan menampilkan pesan yaitu "Anda tidak da
 <img width="1501" height="856" alt="Screenshot 2025-10-09 135702" src="https://github.com/user-attachments/assets/67460c29-ba7f-4be9-b85b-5c95a73c5461" />
 
 2. Jelaskan maksud dari potongan kode berikut!
-3. 
+
 ***Jawaban*** :
    
 Mengecek apakah input dari user sama dengan "ya" tanpa membedakan huruf besar ataupun kecil. Jika hasil true, maka program akan lanjut memeriksa syarat berikutnya.
